@@ -1,0 +1,17 @@
+{
+  "name": "game-server-rewrite",
+  "version": "1.0.0",
+  "main": "./src/app.js",
+  "license": "MIT",
+  "dependencies": {
+    "async-mutex": "^0.5.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express.js": "^1.0.0",
+    "mariadb": "^3.3.1",
+    "morgan": "^1.10.0",
+    "uuid": "^10.0.0",
+    "winston": "^3.13.0",
+    "winston-daily-rotate-file": "^5.0.0"
+  }
+}
